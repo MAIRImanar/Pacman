@@ -9,7 +9,6 @@
   Based on the UC Berkeley CS188 Intro to AI course — Project 1: Search.
 </p>
 
--
 
 ##  Overview
 
